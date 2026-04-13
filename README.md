@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
