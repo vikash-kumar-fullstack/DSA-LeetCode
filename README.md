@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Database
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 <!---LeetCode Topics End-->
