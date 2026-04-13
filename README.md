@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0046-permutations) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0009-palindrome-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
