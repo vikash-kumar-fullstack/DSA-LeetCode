@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0322-coin-change) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
