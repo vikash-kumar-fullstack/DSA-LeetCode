@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0046-permutations) |
+| [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
