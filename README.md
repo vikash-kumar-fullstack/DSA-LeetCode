@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Game Theory
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
