@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -130,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
