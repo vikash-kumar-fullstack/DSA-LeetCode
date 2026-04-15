@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -126,9 +127,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
