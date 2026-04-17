@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Game Theory
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
