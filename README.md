@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0178-rank-scores) |
 | [0584-find-customer-referee](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1148-article-views-i) |
