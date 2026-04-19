@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
