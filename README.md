@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0739-daily-temperatures) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
