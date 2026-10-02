@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
