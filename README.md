@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0221-maximal-square) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
