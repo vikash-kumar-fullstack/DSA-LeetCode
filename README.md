@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
