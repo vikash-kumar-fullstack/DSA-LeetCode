@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Game Theory
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
@@ -245,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
