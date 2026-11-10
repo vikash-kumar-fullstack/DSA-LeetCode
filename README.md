@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Dynamic Programming
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0169-majority-element) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
