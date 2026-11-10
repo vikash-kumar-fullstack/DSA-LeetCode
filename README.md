@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
