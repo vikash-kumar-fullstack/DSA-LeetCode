@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0977-squares-of-a-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Game Theory
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/vikash-kumar-fullstack/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
