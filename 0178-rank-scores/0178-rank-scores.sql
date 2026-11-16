@@ -13,8 +13,13 @@
 --     )as rn from Score
 -- )
 -- select score, rn as rank from score_rank;
-
-
+with score_rank as (
     select score,Dense_Rank() over(
         order by score desc
-    ) `rank` from Scores
+    ) rn from Scores
+)
+select score, rn as `rank` from score_rank;
+
+    -- select score,Dense_Rank() over(
+    --     order by score desc
+    -- ) `rank` from Scores
